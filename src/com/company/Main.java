@@ -11,6 +11,6 @@ public class Main {
         for (int a:intArray){
             System.out.println(a);
         }
-	//TarA
+	//Master
     }
 }
