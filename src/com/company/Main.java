@@ -6,14 +6,11 @@ public class Main {
 	// write your code here
         System.out.println("hello world ! from github.com..");
         System.out.print("Sandesh Lamsal");
-<<<<<<< HEAD
-
         int[] intArray = {100,200,300};
         for (int a:intArray){
             System.out.println(a);
         }
 	//Master
-=======
         //System.out.println("Java Automation\n");
 
         /*
@@ -24,6 +21,5 @@ public class Main {
         }
         */
         //https://github.com/qalamsal/gitTest_HelloWorld_Project.git
->>>>>>> be1da2c2f136d4b998bdcc947314e6a2aabfa4ca
     }
 }

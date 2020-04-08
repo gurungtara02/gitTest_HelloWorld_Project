@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="Merge branch 'master' of https://github.com/qalamsal/gitTest_HelloWorld_Project&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/gitTestHelloWorld/com/company/Main.class&#10;#&#9;src/com/company/Main.java" />
+    <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="github.com added.." />
-    <option name="LAST_COMMIT_MESSAGE" value="github.com added.." />
+    <MESSAGE value="Merge branch 'master' of https://github.com/qalamsal/gitTest_HelloWorld_Project&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/gitTestHelloWorld/com/company/Main.class&#10;#&#9;src/com/company/Main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/qalamsal/gitTest_HelloWorld_Project&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/gitTestHelloWorld/com/company/Main.class&#10;#&#9;src/com/company/Main.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="490" y="269" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586201625690">
